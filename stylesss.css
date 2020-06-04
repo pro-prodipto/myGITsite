@@ -1,0 +1,21 @@
+body {
+  background-color: powderblue;
+}
+p{
+	
+	background-color:  pink;
+}
+section{
+	background-color: cyan;
+	font-weight: bold;
+	font-style: oblique;
+
+}
+h1{
+	padding: 40px;
+	color: blue;
+	font-stretch: expanded;
+}
+img{
+	padding: 100px;
+}
